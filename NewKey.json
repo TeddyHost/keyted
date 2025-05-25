@@ -1,6 +1,4 @@
 [
-  "NTED123",
-  "KEYVIP",
-  "KEY_ORIGINAL",
-  "NEWBUYERKEY"
+  { "key": "abcd1234" },
+  { "key": "ntedvip" }
 ]
